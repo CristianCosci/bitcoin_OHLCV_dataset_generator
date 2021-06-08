@@ -27,7 +27,8 @@ There may be some holes in the data where values are missing. I therefore decide
 
 To see the related study on interpolation look at this repo: https://github.com/CristianCosci/interpolationStudy_toHandleMissingData_BTCdataset
 
-The data are for educational purposes only, it is not recommended to use this dataset for financial purposes
+The data are for educational purposes only, it is not recommended to use this dataset for financial purposes.
+
 There are also some functions able to summarize some characteristics of the obtained datasets.
 
 ![image](https://user-images.githubusercontent.com/44636000/121206380-b39d6700-c878-11eb-98c3-585295fddabe.png)
