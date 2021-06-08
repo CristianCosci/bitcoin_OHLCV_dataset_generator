@@ -12,7 +12,7 @@ The data is taken from:
 To do this, I used the trade data provided in csv format by the https://bitcoincharts.com website.
 The data starts from 01-01-2012
 
-To create the candlestick dataset, the data was aggregated as follows:
+To create the candlesticks dataset, the data was aggregated as follows:
 - maximum of the interval for the HIGH data
 - first of the interval for the OPEN data
 - minimum of the interval for the LOW data
